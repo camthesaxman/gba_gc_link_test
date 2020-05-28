@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.dol
+*.gba
+*.bin
+build/
+gba_mb/build/
